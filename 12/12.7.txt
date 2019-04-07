@@ -1,0 +1,9 @@
+Base Class: Shape
+
+Derived Class: TwoDimensionalShape
+	Triangle, Rectangle, Square, Circle,Diamond
+	circle->oval      diamond->rectangle
+
+Derived Class: ThreeDimensionalShape
+	 Cube,Sphere,Prismoid(ÀâÖùÌå)
+                        Pyramid
